@@ -292,4 +292,5 @@ Built with ❤️ using HTML, CSS and JavaScript.
 
 :::
 
-You can paste this directly into **`README.md`** in your repository. I’d keep your **actual portfolio website in `index.html`** and use this README only to explain the project to people visiting your GitHub repository.
+You can paste this directly into **`README.md`** in your repository. I’d keep your **actual portfolio website in `index.html`** and use this README only to explain the project to people visiting your GitHub repository.Portfolio website deployment update.
+
